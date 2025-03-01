@@ -77,4 +77,4 @@ Feel free to open issues and contribute to this project via Pull Requests.
 
 ---
 ## 🏆 Credits
-Developed by [Sivaram J](https://github.com/Sivaram001)
+Developed by [Sivaram J](https://github.com/Sivaramjallu001)
