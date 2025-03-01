@@ -1,5 +1,3 @@
-# Stolen-Vehicle-Detection
-YOLOv9/ EasyOCR/ FastAPI/ MySQL
 
 # ANPR-Based Stolen Vehicle Detection System
 
@@ -78,9 +76,5 @@ uvicorn main:app --reload
 Feel free to open issues and contribute to this project via Pull Requests.
 
 ---
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
 ## 🏆 Credits
-Developed by [Your Name](https://github.com/your-username)
+Developed by [Sivaram J](https://github.com/Sivaram001)
